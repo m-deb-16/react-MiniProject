@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+5th sem minor project; frontend of a computer hardware e-commerce website using ReactJs
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
