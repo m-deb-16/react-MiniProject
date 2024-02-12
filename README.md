@@ -1,9 +1,13 @@
 ## 5th sem minor project; frontend of a computer hardware e-commerce website with ReactJs
 
 Frontend of a computer hardware e-commerce using HTML, CSS, and ReactJs
+
 -Made pages HTML
+
 -Styled with CSS
+
 -Utilized React Router to route between different pages and react components resulting in zero reloads and an overall seamless experience 
+
 
 ## Available Scripts
 
